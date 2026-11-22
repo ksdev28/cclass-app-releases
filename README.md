@@ -8,14 +8,14 @@ Repositório oficial de distribuição do aplicativo **cClass.app** para Android
 
 ## Baixar a versão mais recente
 
-- **[Download direto — cclass-app.apk (Última versão)](https://github.com/ksdev28/cclass-app-releases/releases/latest/download/cclass-app.apk)**
+- **[Download direto — cclass-app-1.0.1.apk (v1.0.1)](https://github.com/ksdev28/cclass-app-releases/releases/download/v1.0.1/cclass-app-1.0.1.apk)**
 - **[Ver todas as versões e notas de lançamento](https://github.com/ksdev28/cclass-app-releases/releases)**
 
 ---
 
 ## Como instalar no Android
 
-1. No celular, toque no link de download acima para baixar o arquivo `cclass-app.apk`.
+1. No celular, toque no link de download acima para baixar o arquivo `cclass-app-1.0.1.apk`.
 2. Ao concluir o download, toque no arquivo na barra de notificações ou na pasta **Downloads**.
 3. Se o Android solicitar permissão, habilite **"Permitir desta fonte"** para o navegador ou gerenciador de arquivos.
 4. Toque em **Instalar** e aguarde a conclusão.

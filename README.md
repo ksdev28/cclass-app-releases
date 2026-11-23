@@ -8,7 +8,7 @@ Repositório oficial de distribuição do aplicativo **cClass.app** para Android
 
 ## Baixar a versão mais recente
 
-- **[Download direto — cclass-app-1.0.3.apk (v1.0.3)](https://github.com/ksdev28/cclass-app-releases/releases/download/v1.0.3/cclassapp-1.0.3.apk)**
+- **[Download direto — cclass-app-1.0.3.apk (v1.0.3)](https://github.com/ksdev28/cclass-app-releases/releases/download/v1.0.5/cclass-app-1.0.5.apk)**
 - **[Ver todas as versões e notas de lançamento](https://github.com/ksdev28/cclass-app-releases/releases)**
 
 ---
